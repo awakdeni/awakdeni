@@ -1,6 +1,6 @@
-
-
-# 🛠️ Tech Stack
+<p align="left">
+  <span style="font-size: 2em;"><b>🛠️ Tech Stack</b></span>
+</p>
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/>
@@ -28,6 +28,6 @@
 
 <div align="center">
 
-### 💭 *"Code is poetry written in logic"*
+<p><b>💭 <i>"Code is poetry written in logic"</i></b></p>
 
 </div>
