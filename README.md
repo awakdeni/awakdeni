@@ -1,13 +1,6 @@
-# Hi 👋  
-## Muhammad Deni Akbar  
-### Web Developer & Designer  
 
-🌍 Pasaman Barat  
-✉️ [ikoawakdeni@gmail.com](mailto:ikoawakdeni@gmail.com)
 
----
-
-### 🛠️ Skills
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36"/>
@@ -30,3 +23,11 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36"/>
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36"/>
 </p>
+
+---
+
+<div align="center">
+
+### 💭 *"Code is poetry written in logic"*
+
+</div>
